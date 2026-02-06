@@ -7,9 +7,11 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de Desenvolvimento de Sistemas, com foco em lógica de programação
-e programação orientada a objetos. Busco consolidar o aprendizado por meio de
-projetos práticos, aplicando conceitos de Java e JavaScript no dia a dia.
+Técnico em Desenvolvimento de Sistemas com foco em backend Java.
+Tenho consolidado fundamentos sólidos em Programação Orientada a Objetos, lógica de programação e desenvolvimento web.
+
+Atualmente desenvolvo projetos práticos aplicando conceitos de arquitetura, manipulação de dados e boas práticas de código.
+Busco oportunidade como Desenvolvedor Júnior ou Estagiário para evoluir profissionalmente na área de tecnologia.
 
 
 ## 🛠 Tecnologias e Ferramentas
@@ -26,8 +28,11 @@ projetos práticos, aplicando conceitos de Java e JavaScript no dia a dia.
 Aplicação web interativa utilizando HTML, CSS e JavaScript, com foco em
 manipulação de DOM, eventos e organização de layout.
 
-🔹 **Exercícios de Lógica em Java**  
-Coleção de exercícios práticos envolvendo condicionais, laços, arrays e POO.
+🔹 **Sistema de Gestão de Alunos (Java)**  
+CRUD completo com aplicação de POO, organização em camadas e tratamento de exceções.
+
+
+
 
 ## 📚 Estudando atualmente
 
@@ -35,10 +40,10 @@ Coleção de exercícios práticos envolvendo condicionais, laços, arrays e POO
 - JavaScript (DOM e eventos)
 - Versionamento com Git
 
-## 🎯 Objetivo
 
-Busco oportunidade como estagiário ou desenvolvedor júnior, onde eu possa
-aprender com a equipe, aplicar meus conhecimentos e evoluir tecnicamente.
+## 📌 Objetivo Profissional
+Busco oportunidade como Desenvolvedor Backend Júnior ou Estagiário em TI.
+
 
 ## 📫 Contato
 
