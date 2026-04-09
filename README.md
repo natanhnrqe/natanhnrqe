@@ -57,7 +57,9 @@ Natan - Full Stack Developer
 
 ## 🐍 <span style="color:#00ff00">ACTIVITY_STREAM</span>
 
-![Snake animation](https://github.com/SEU_USER/SEU_USER/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img width="100%" src="https://github.com/natanhnrqe/natanhnrqe/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
