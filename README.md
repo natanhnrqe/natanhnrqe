@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=39FF14&size=20&center=true&vCenter=true&width=900&height=200&pause=1000&lines=booting+system...;loading+modules...;initializing+developer...;user:+Natan;stack:+Java+%7C+Spring+Boot+%7C+JS;status:+online;access+granted" />
 </p>
 
-<h1 align="center">👾 Natan</h1>
+<h1 align="center"> Natan Henrique</h1>
 
 <p align="center">
   Software Engineering student | Java • Spring Boot • JavaScript
