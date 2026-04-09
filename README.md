@@ -1,51 +1,79 @@
-# 👋 Olá, meu nome é Natan
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=39FF14&size=20&center=true&vCenter=true&width=900&height=200&lines=booting+system...;loading+modules...;initializing+developer...;user:+Natan;stack:+Java+%7C+Spring+Boot+%7C+JS;status:+online;access+granted" />
 
-🎓 Estudante de Desenvolvimento de Sistemas  
-💻 Foco em Java e Desenvolvimento Web  
-🚀 Aprendendo através de projetos práticos
+```bash
+> WhoAmI
+Natan - Full Stack Developer
+```
 
+## 🧠 <span style="color:#00ff00">STACK</span>
 
-## 👨‍💻 Sobre mim
+<img src="https://skillicons.dev/icons?i=java,spring,js,html,css" />
 
-Técnico em Desenvolvimento de Sistemas com foco em backend Java.
-Tenho consolidado fundamentos sólidos em Programação Orientada a Objetos, lógica de programação e desenvolvimento web.
+---
 
-Atualmente desenvolvo projetos práticos aplicando conceitos de arquitetura, manipulação de dados e boas práticas de código.
-Busco oportunidade como Desenvolvedor Júnior ou Estagiário para evoluir profissionalmente na área de tecnologia.
+## 📊 SYSTEM METRICS
 
+![Streak](https://streak-stats.demolab.com?user=natanhnrqe&theme=tokyonight)
 
-## 🛠 Tecnologias e Ferramentas
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=natanhnrqe&theme=react-dark)
+---
 
-- **Linguagens:** Java, JavaScript  
-- **Web:** HTML5, CSS3  
-- **Conceitos:** Lógica, POO, DOM  
-- **Ferramentas:** Git, GitHub, VS Code, IntelliJ IDEA
-  
+## 🗂️ <span style="color:#00ff00">PROJECTS_LOG</span>
 
-## 📌 Projetos em Destaque
+```bash
+> loading projects...
+```
 
-🔹 **Mapa Interativo do Brasil**  
-Aplicação web interativa utilizando HTML, CSS e JavaScript, com foco em
-manipulação de DOM, eventos e organização de layout.
+### 🎓 Sistema de Alunos
 
-🔹 **Sistema de Gestão de Alunos (Java)**  
-CRUD completo com aplicação de POO, organização em camadas e tratamento de exceções.
+🔹 CRUD completo
+🔹 Boas práticas (camadas, DTOs, etc)
+🔹 Backend robusto com Spring Boot
 
+👉 [Acessar Projeto](https://github.com/natanhnrqe/Sistema-de-alunos)
 
+---
 
+### 🗺️ Mapa Interativo (Vanilla JS)
 
-## 📚 Estudando atualmente
+🔹 Manipulação direta do DOM
+🔹 Interatividade sem frameworks
+🔹 Foco em performance
 
-- Java (POO, coleções)
-- JavaScript (DOM e eventos)
-- Versionamento com Git
+👉 [Acessar Projeto](https://github.com/natanhnrqe/Mapa-Interativo)
 
+---
 
-## 📌 Objetivo Profissional
-Busco oportunidade como Desenvolvedor Backend Júnior ou Estagiário em TI.
+### 🧩 Mini IDE (em desenvolvimento)
 
+🔹 Editor de código próprio
+🔹 Projeto em evolução contínua
+🔹 Conceitos de parsing e execução
 
-## 📫 Contato
+👉 [Acessar Projeto](https://github.com/natanhnrqe/mini-IDE-Java)
 
-- LinkedIn: www.linkedin.com/in/natannhenriquee
-- Email: natanhenriqueramossilva@gmail.com
+---
+
+## 🐍 <span style="color:#00ff00">ACTIVITY_STREAM</span>
+
+![Snake animation](https://github.com/SEU_USER/SEU_USER/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📡 <span style="color:#00ff00">CONNECT</span>
+
+```bash
+> ping me
+```
+
+* LinkedIn: www.linkedin.com/in/natannhenriquee
+* Email: natanhenriqueramossilva@gmail.com
+
+---
+
+## ⚡ <span style="color:#00ff00">STATUS</span>
+
+```bash
+System.out.println("Always learning...");
+```
