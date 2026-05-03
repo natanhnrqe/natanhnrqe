@@ -65,15 +65,15 @@ Projeto com JavaScript vanilla focado em manipulação de DOM e interatividade
 
 ---
 
-### 🧩 Mini IDE (em desenvolvimento)
+### 🧩 EyeCode (em desenvolvimento)
 
 ```bash
-> open project --name mini-ide
+> open project --name EyeCode
 ```
 
 Sistema em desenvolvimento com foco em execução e edição de código
 
-💻 **repo:** https://github.com/natanhnrqe/mini-ide-java
+💻 **repo:** https://github.com/natanhnrqe/EyeCode
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:000000&height=2"/>
